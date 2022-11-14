@@ -1,4 +1,4 @@
-# ProjetfinalDS
+# Projet dashboard
 
 pour lancer le dashboard comprenant une carte interactive
 
